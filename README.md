@@ -36,7 +36,7 @@ The extracted data is then stored in a structured format using **Pandas** and ex
 
 ```
 📁 project-folder
-│── scrape_companies.py
+│── WebScrapping.py
 │── us_companies_by_revenue.csv
 │── README.md
 ```
